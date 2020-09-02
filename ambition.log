@@ -1,0 +1,1461 @@
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2020.6.3)  2 SEP 2020 16:32
+ restricted system commands enabled.
+ file:line:error style messages enabled.
+**ambition.tex
+(./ambition.tex
+LaTeX2e <2017-04-15>
+Lua module: luaotfload-main 2017/01/29 2.80001 OpenType layout system.
+Lua module: lualibs 2017-02-01 2.5 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2017-02-01 2.5 ConTeXt Lua libraries -- extended co
+llection.(using write cache: /home/frederic/.texlive2017/texmf-var/luatex-cache/
+generic)(using read cache: /var/lib/texmf/luatex-cache/generic /home/frederic/.t
+exlive2017/texmf-var/luatex-cache/generic)
+luaotfload | conf : Root cache directory is /home/frederic/.texlive2017/texmf-va
+r/luatex-cache/generic/names.
+luaotfload | init : Loading fontloader “fontloader-2017-02-11.lua” from kpse
+-resolved path “/usr/share/texlive/texmf-dist/tex/luatex/luaotfload/fontloader
+-2017-02-11.lua”.
+Lua-only attribute luaotfload@state = 1
+Lua-only attribute luaotfload@noligature = 2
+Lua-only attribute luaotfload@syllabe = 3
+luaotfload | init : Context OpenType loader version “3.027”
+Inserting `luaotfload.node_processor' at position 1 in `pre_linebreak_filter'.
+Inserting `luaotfload.node_processor' at position 1 in `hpack_filter'.
+Inserting `luaotfload.define_font' at position 1 in `define_font'.
+Lua-only attribute luaotfload_color_attribute = 4
+luaotfload | conf : Root cache directory is /home/frederic/.texlive2017/texmf-va
+r/luatex-cache/generic/names.
+Inserting `luaotfload.aux.set_sscale_dimens' at position 1 in `luaotfload.patch_
+font'.
+Inserting `luaotfload.aux.patch_cambria_domh' at position 2 in `luaotfload.patch
+_font'.
+Inserting `luaotfload.aux.fixup_fontdata' at position 1 in `luaotfload.patch_fon
+t_unsafe'.
+Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
+'.
+Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
+.
+luaotfload | main : initialization completed in 0.067 seconds
+Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+luaotfload | db : Font names database loaded from /home/frederic/.texlive2017/te
+xmf-var/luatex-cache/generic/names/luaotfload-names.luc(load luc: /home/frederic
+/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-regular.luc))
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (/usr/share/texlive/texmf-dist/tex/latex/paracol/paracol.sty
+Package: paracol 2015/10/10 v1.32 
+\pcol@currcol=\count87
+\pcol@nextcol=\count88
+\pcol@ncol=\count89
+\pcol@ncolleft=\count90
+\pcol@page=\count91
+\pcol@basepage=\count92
+\pcol@toppage=\count93
+\pcol@footnotebase=\count94
+\pcol@nfootnotes=\count95
+\pcol@mcid=\count96
+\pcol@prevdepth=\dimen103
+\pcol@colht=\dimen104
+\pcol@textfloatsep=\dimen105
+\pcol@lrmargin=\dimen106
+\pagerim=\dimen107
+\pcol@topskip=\skip43
+\pcol@topfnotes=\box26
+\pcol@prespan=\box27
+\pcol@rightpage=\box28
+\pcol@tempbox=\box29
+\pcol@everyvbox=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2018/02/21 L3 programming layer (loader) 
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+Package: expl3 2018/02/21 L3 programming layer (code)
+\ucharcat@table=\catcodetable5
+\c_max_int=\count97
+\l_tmpa_int=\count98
+\l_tmpb_int=\count99
+\g_tmpa_int=\count100
+\g_tmpb_int=\count101
+\g__intarray_font_int=\count102
+\g__prg_map_int=\count103
+\c_log_iow=\count104
+\l_iow_line_count_int=\count105
+\l__iow_line_target_int=\count106
+\l__iow_one_indent_int=\count107
+\l__iow_indent_int=\count108
+\c_zero_dim=\dimen108
+\c_max_dim=\dimen109
+\l_tmpa_dim=\dimen110
+\l_tmpb_dim=\dimen111
+\g_tmpa_dim=\dimen112
+\g_tmpb_dim=\dimen113
+\c_zero_skip=\skip44
+\c_max_skip=\skip45
+\l_tmpa_skip=\skip46
+\l_tmpb_skip=\skip47
+\g_tmpa_skip=\skip48
+\g_tmpb_skip=\skip49
+\c_zero_muskip=\muskip10
+\c_max_muskip=\muskip11
+\l_tmpa_muskip=\muskip12
+\l_tmpb_muskip=\muskip13
+\g_tmpa_muskip=\muskip14
+\g_tmpb_muskip=\muskip15
+\l_keys_choice_int=\count109
+\c__fp_leading_shift_int=\count110
+\c__fp_middle_shift_int=\count111
+\c__fp_trailing_shift_int=\count112
+\c__fp_big_leading_shift_int=\count113
+\c__fp_big_middle_shift_int=\count114
+\c__fp_big_trailing_shift_int=\count115
+\c__fp_Bigg_leading_shift_int=\count116
+\c__fp_Bigg_middle_shift_int=\count117
+\c__fp_Bigg_trailing_shift_int=\count118
+\c__fp_rand_size_int=\count119
+\c__fp_rand_four_int=\count120
+\c__fp_rand_eight_int=\count121
+\l__sort_length_int=\count122
+\l__sort_min_int=\count123
+\l__sort_top_int=\count124
+\l__sort_max_int=\count125
+\l__sort_true_max_int=\count126
+\l__sort_block_int=\count127
+\l__sort_begin_int=\count128
+\l__sort_end_int=\count129
+\l__sort_A_int=\count130
+\l__sort_B_int=\count131
+\l__sort_C_int=\count132
+\l__tl_build_start_index_int=\count133
+\l__tl_build_index_int=\count134
+\l__tl_analysis_normal_int=\count135
+\l__tl_analysis_index_int=\count136
+\l__tl_analysis_nesting_int=\count137
+\l__tl_analysis_type_int=\count138
+\l__regex_internal_a_int=\count139
+\l__regex_internal_b_int=\count140
+\l__regex_internal_c_int=\count141
+\l__regex_balance_int=\count142
+\l__regex_group_level_int=\count143
+\l__regex_mode_int=\count144
+\c__regex_cs_in_class_mode_int=\count145
+\c__regex_cs_mode_int=\count146
+\l__regex_catcodes_int=\count147
+\l__regex_default_catcodes_int=\count148
+\c__regex_catcode_L_int=\count149
+\c__regex_catcode_O_int=\count150
+\c__regex_catcode_A_int=\count151
+\c__regex_all_catcodes_int=\count152
+\l__regex_show_lines_int=\count153
+\l__regex_min_state_int=\count154
+\l__regex_max_state_int=\count155
+\l__regex_left_state_int=\count156
+\l__regex_right_state_int=\count157
+\l__regex_capturing_group_int=\count158
+\l__regex_min_pos_int=\count159
+\l__regex_max_pos_int=\count160
+\l__regex_curr_pos_int=\count161
+\l__regex_start_pos_int=\count162
+\l__regex_success_pos_int=\count163
+\l__regex_curr_char_int=\count164
+\l__regex_curr_catcode_int=\count165
+\l__regex_last_char_int=\count166
+\l__regex_case_changed_char_int=\count167
+\l__regex_curr_state_int=\count168
+\l__regex_step_int=\count169
+\l__regex_min_active_int=\count170
+\l__regex_max_active_int=\count171
+\l__regex_replacement_csnames_int=\count172
+\l__regex_match_count_int=\count173
+\l__regex_min_submatch_int=\count174
+\l__regex_submatch_int=\count175
+\l__regex_zeroth_submatch_int=\count176
+\g__regex_trace_regex_int=\count177
+\c_empty_box=\box30
+\l_tmpa_box=\box31
+\l_tmpb_box=\box32
+\g_tmpa_box=\box33
+\g_tmpb_box=\box34
+\l__box_top_dim=\dimen114
+\l__box_bottom_dim=\dimen115
+\l__box_left_dim=\dimen116
+\l__box_right_dim=\dimen117
+\l__box_top_new_dim=\dimen118
+\l__box_bottom_new_dim=\dimen119
+\l__box_left_new_dim=\dimen120
+\l__box_right_new_dim=\dimen121
+\l__box_internal_box=\box35
+\l__coffin_internal_box=\box36
+\l__coffin_internal_dim=\dimen122
+\l__coffin_offset_x_dim=\dimen123
+\l__coffin_offset_y_dim=\dimen124
+\l__coffin_x_dim=\dimen125
+\l__coffin_y_dim=\dimen126
+\l__coffin_x_prime_dim=\dimen127
+\l__coffin_y_prime_dim=\dimen128
+\c_empty_coffin=\box37
+\l__coffin_aligned_coffin=\box38
+\l__coffin_aligned_internal_coffin=\box39
+\l_tmpa_coffin=\box40
+\l_tmpb_coffin=\box41
+\l__coffin_display_coffin=\box42
+\l__coffin_display_coord_coffin=\box43
+\l__coffin_display_pole_coffin=\box44
+\l__coffin_display_offset_dim=\dimen129
+\l__coffin_display_x_dim=\dimen130
+\l__coffin_display_y_dim=\dimen131
+\l__coffin_bounding_shift_dim=\dimen132
+\l__coffin_left_corner_dim=\dimen133
+\l__coffin_right_corner_dim=\dimen134
+\l__coffin_bottom_corner_dim=\dimen135
+\l__coffin_top_corner_dim=\dimen136
+\l__coffin_scaled_total_height_dim=\dimen137
+\l__coffin_scaled_width_dim=\dimen138
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
+File: l3pdfmode.def 2017/03/18 v L3 Experimental driver: PDF mode
+\l__driver_color_stack_int=\count178
+\l__driver_tmp_box=\box45
+))
+Package: xparse 2018/02/21 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count179
+\g__xparse_grabber_int=\count180
+\l__xparse_m_args_int=\count181
+\l__xparse_mandatory_args_int=\count182
+\l__xparse_v_nesting_int=\count183
+)
+Package: fontspec 2017/11/09 v2.6g Font selection for XeLaTeX and LuaLaTeX
+Lua module: fontspec 2017/11/09 2.6g Font selection for XeLaTeX and LuaLaTeX
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
+Package: fontspec-luatex 2017/11/09 v2.6g Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count184
+\l__fontspec_language_int=\count185
+\l__fontspec_strnum_int=\count186
+\l__fontspec_tmp_int=\count187
+\l__fontspec_em_int=\count188
+\l__fontspec_emdef_int=\count189
+\l__fontspec_strong_int=\count190
+\l__fontspec_strongdef_int=\count191
+\l__fontspec_tmpa_dim=\dimen139
+\l__fontspec_tmpb_dim=\dimen140
+\l__fontspec_tmpc_dim=\dimen141
+\g__file_internal_ior=\read1
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/tuenc.def
+File: tuenc.def 2017/04/05 v2.0i Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TU on input line 82.
+))
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \fontspec with sig. 'O{}mO{}' on line 545.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmainfont with sig. 'O{}mO{}' on line 549.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setsansfont with sig. 'O{}mO{}' on line 553.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmonofont with sig. 'O{}mO{}' on line 557.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmathrm with sig. 'O{}mO{}' on line 561.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setboldmathrm with sig. 'O{}mO{}' on line 565.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmathsf with sig. 'O{}mO{}' on line 569.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmathtt with sig. 'O{}mO{}' on line 573.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setromanfont with sig. 'O{}mO{}' on line 577.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontfamily with sig. 'mO{}mO{}' on line 581.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontface with sig. 'mO{}mO{}' on line 585.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \defaultfontfeatures with sig. 't+om' on line 589.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \addfontfeatures with sig. 'm' on line 593.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \addfontfeature with sig. 'm' on line 597.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontfeature with sig. 'mm' on line 601.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newAATfeature with sig. 'mmmm' on line 605.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newopentypefeature with sig. 'mmm' on line 609.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newICUfeature with sig. 'mmm' on line 613.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \aliasfontfeature with sig. 'mm' on line 617.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \aliasfontfeatureoption with sig. 'mmm' on line 621.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontscript with sig. 'mm' on line 625.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontlanguage with sig. 'mm' on line 629.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareFontsExtensions with sig. 'm' on line 633.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \IfFontFeatureActiveTF with sig. 'mmm' on line 637.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \EncodingCommand with sig. 'mO{}m' on line 3366.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \EncodingAccent with sig. 'mm' on line 3372.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \EncodingSymbol with sig. 'mm' on line 3378.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \EncodingComposite with sig. 'mmm' on line 3384.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \EncodingCompositeCommand with sig. 'mmm' on line 3390.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareUnicodeEncoding with sig. 'mm' on line 3415.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \UndeclareSymbol with sig. 'm' on line 3421.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \UndeclareAccent with sig. 'm' on line 3427.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \UndeclareCommand with sig. 'm' on line 3433.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \UndeclareComposite with sig. 'mm' on line 3440.
+.................................................
+
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)
+LaTeX Info: Redefining \itshape on input line 3625.
+LaTeX Info: Redefining \slshape on input line 3630.
+LaTeX Info: Redefining \scshape on input line 3635.
+LaTeX Info: Redefining \upshape on input line 3640.
+LaTeX Info: Redefining \em on input line 3670.
+LaTeX Info: Redefining \emph on input line 3695.
+(load luc: /home/frederic/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/
+lmroman10-bold.luc)(load luc: /home/frederic/.texlive2017/texmf-var/luatex-cache
+/generic/fonts/otl/lmroman10-italic.luc)
+LaTeX Info: Redefining \- on input line 3749.
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \oldstylenums with sig. 'm' on line 3844.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \liningnums with sig. 'm' on line 3848.
+.................................................
+))
+(/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.sty
+Package: csquotes 2018/02/11 v5.2c context-sensitive quotations (JAW)
+
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2018/02/11 v2.5e e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count192
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+\csq@reset=\count193
+\csq@gtype=\count194
+\csq@glevel=\count195
+\csq@qlevel=\count196
+\csq@maxlvl=\count197
+\csq@tshold=\count198
+\csq@ltx@everypar=\toks16
+
+(/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.def
+File: csquotes.def 2018/02/11 v5.2c csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+
+(/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.cfg
+File: csquotes.cfg 
+))
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
+\ttl@box=\box46
+\beforetitleunit=\skip50
+\aftertitleunit=\skip51
+\ttl@plus=\dimen142
+\ttl@minus=\dimen143
+\ttl@toksa=\toks17
+\titlewidth=\dimen144
+\titlewidthlast=\dimen145
+\titlewidthfirst=\dimen146
+)
+(/usr/share/texlive/texmf-dist/tex/latex/comment/comment.sty
+\CommentStream=\write3
+
+Excluding comment 'comment')
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count199
+\Gm@cntv=\count266
+\c@Gm@tempcnt=\count267
+\Gm@bindingoffset=\dimen147
+\Gm@wd@mp=\dimen148
+\Gm@odd@mp=\dimen149
+\Gm@even@mp=\dimen150
+\Gm@layoutwidth=\dimen151
+\Gm@layoutheight=\dimen152
+\Gm@layouthoffset=\dimen153
+\Gm@layoutvoffset=\dimen154
+\Gm@dimlist=\toks18
+)
+(/usr/share/texlive/texmf-dist/tex/latex/dramatist/dramatist.sty
+Package: dramatist 2014/12/18 v1.2e Package for typesetting drama -- Author: Mas
+similiano Dominici
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@storelineno=\count268
+\c@storeprintlineindex=\count269
+\c@character=\count270
+\c@temp=\count271
+\c@gtemp=\count272
+\c@act=\count273
+\c@scene=\count274
+\tbox=\box47
+\CharWidth=\skip52
+\ParenWidth=\skip53
+\CastWidth=\skip54
+\beforeactskip=\skip55
+\afteractskip=\skip56
+\beforesceneskip=\skip57
+\aftersceneskip=\skip58
+\beforecastskip=\skip59
+\aftercasttitleskip=\skip60
+\speaksskip=\skip61
+\dirwidth=\skip62
+\speakswidth=\dimen155
+\speaksindent=\dimen156
+\speechskip=\dimen157
+\Dparsep=\dimen158
+\Dlabelsep=\dimen159
+
+
+Package dramatist Warning: 
+
+********************************************************
+* No Configuration file found, using default settings. *
+********************************************************
+.
+
+)
+luaotfload | cache : Lookup cache loaded from /home/frederic/.texlive2017/texmf-
+var/luatex-cache/generic/names/luaotfload-lookup-cache.luc.(load luc: /home/fred
+eric/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/ebgaramond12-regular.
+luc)
+\g__fontspec_family_ebgaramond_int=\count275
+(load luc: /home/frederic/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/
+ebgaramond08-regular.luc)(load luc: /home/frederic/.texlive2017/texmf-var/luatex
+-cache/generic/fonts/otl/ebgaramond12-italic.luc)
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'ebgaramond(0)' created for font 'ebgaramond' with options
+. [Ligatures=TeX,Ligatures=TeX].
+.  
+.  This font family consists of the following NFSS series/shapes:
+.  
+. - 'normal' (m/n) with NFSS spec.:
+. <->"ebgaramond:mode=node;script=latn;language=DFLT;+tlig;"
+. - 'small caps'  (m/sc) with NFSS spec.:
+. <->"ebgaramond:mode=node;script=latn;language=DFLT;+tlig;+smcp;"
+. - 'bold' (bx/n) with NFSS spec.:
+. <->"ebgaramond/B:mode=node;script=latn;language=DFLT;+tlig;"
+. - 'bold small caps'  (bx/sc) with NFSS spec.:
+. <->"ebgaramond/B:mode=node;script=latn;language=DFLT;+tlig;+smcp;"
+. - 'italic' (m/it) with NFSS spec.:
+. <->"ebgaramond/I:mode=node;script=latn;language=DFLT;+tlig;"
+. - 'italic small caps'  (m/itsc) with NFSS spec.:
+. <->"ebgaramond/I:mode=node;script=latn;language=DFLT;+tlig;+smcp;"
+. - 'bold italic' (bx/it) with NFSS spec.:
+. <->"ebgaramond/BI:mode=node;script=latn;language=DFLT;+tlig;"
+. - 'bold italic small caps'  (bx/itsc) with NFSS spec.:
+. <->"ebgaramond/BI:mode=node;script=latn;language=DFLT;+tlig;+smcp;"
+.................................................
+LaTeX Info: Redefining \rmfamily on input line 20.
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... none found.
+
+(./ambition.aux)
+\openout1 = ambition.aux
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+.................................................
+. fontspec info: "setup-math"
+. 
+. Adjusting the maths setup (use [no-math] to avoid this).
+.................................................
+\symlegacymaths=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 22.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 22.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 22.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 22.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 22.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 22.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 22.
+LaTeX Font Info:    Redeclaring math accent \check on input line 22.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 22.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 22.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 22.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 22.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 22.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 22.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 22.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 22.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 22.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 22.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 22.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 22.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 22.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 22.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 22.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 22.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 22.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 22.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/ebgaramond(0)/m/n on input line 22.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 22.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/ebgaramond(0)/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/ebgaramond(0)/m/n --> TU/ebgaramond(0)/m/n on input l
+ine 22.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/ebgaramond(0)/m/it on input line 22.
+
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/ebgaramond(0)/bx/n on input line 22.
+
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 22.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/ebgaramond(0)/m/n --> TU/ebgaramond(0)/bx/n on input 
+line 22.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/ebgaramond(0)/bx/it on input line 2
+2.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 22.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 22.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(154.21394pt, 289.07999pt, 154.21394pt)
+* v-part:(T,H,B)=(106.75473pt, 578.15999pt, 160.13213pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=289.07999pt
+* \textheight=578.15999pt
+* \oddsidemargin=81.94395pt
+* \evensidemargin=81.94395pt
+* \topmargin=-2.51526pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--54
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--56
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--58
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--60
+
+ []
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 102--105
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--107
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--124
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--131
+
+ []
+
+
+Overfull \hbox (0.8099pt too wide) in paragraph at lines 132--155
+\TU/ebgaramond(0)/m/n/10 mu-si-ci-enne tchèque d’une quar-an-taine d’an-n
+ée, tou-jours ha-bil-lée de cor-duroy.
+ []
+
+
+Overfull \hbox (6.34097pt too wide) in paragraph at lines 132--155
+\TU/ebgaramond(0)/m/n/10 ex-er-ci-ces tech-niques de co-or-di-na-tion et d’
+étire-ments. Elle frappe fort : TCHAK
+ []
+
+[3
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 156--163
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--175
+
+ []
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 199--203
+
+ []
+
+
+Overfull \hbox (1.14655pt too wide) in paragraph at lines 204--221
+\TU/ebgaramond(0)/m/n/10 café depuis qu’Agathe est ar-rivée, même un peu a
+vant pour être hon-nête, prob-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 204--221
+
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 265.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 265.
+
+Overfull \hbox (8.67317pt too wide) in paragraph at lines 226--266
+\TU/ebgaramond(0)/m/it/10 pas \TU/ebgaramond(0)/m/n/10 en train de se pogner Do
+ménico --eille com-ment t’as en-tend…--peut-importe,
+ []
+
+[5] [6]
+Overfull \hbox (14.15317pt too wide) in paragraph at lines 270--283
+\TU/ebgaramond(0)/m/n/10 Jolie écrit des paroles de chan-son dans son garage q
+ui fait of-󰐑󰐅ce de cham-bre/tanière
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 270--283
+
+ []
+
+[7
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 304--317
+
+ []
+
+
+Overfull \hbox (8.64195pt too wide) in paragraph at lines 318--326
+[]\TU/ebgaramond(0)/m/n/10 L’eau remi-gre par la suite vers l’équa-teur o
+ù elle se réchau󰐐fe et re-monte, l’agence-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 318--326
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 336--342
+
+ []
+
+[8
+
+] [9
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 356--372
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 373--383
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 389--400
+
+ []
+
+[10
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 401--402
+
+ []
+
+
+Overfull \hbox (4.92195pt too wide) in paragraph at lines 407--416
+[]\TU/ebgaramond(0)/m/n/10 David est en train d’em-mé-nager avec Gal-lifée 
+qui est tou-jours aussi em-pathique
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 407--416
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 417--422
+
+ []
+
+
+Overfull \hbox (2.47658pt too wide) in paragraph at lines 427--457
+\TU/ebgaramond(0)/m/n/10 pré-nouveau voy-age qui change tou-jours mais tou-jou
+rs grand et blond et blanc,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 427--457
+
+ []
+
+[11] [12]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 467.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 467.
+(load luc: /home/frederic/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/
+ebgaramond08-italic.luc)
+Underfull \hbox (badness 10000) in paragraph at lines 460--484
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 485--494
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 496--504
+
+ []
+
+[13
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 505--517
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 518--519
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 520--529
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 542--558
+
+ []
+
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 560--563
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 564--572
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 573--576
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 577--595
+
+ []
+
+[15]
+Underfull \hbox (badness 10000) in paragraph at lines 596--600
+
+ []
+
+[16]
+Underfull \hbox (badness 10000) in paragraph at lines 612--620
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 621--626
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 627--637
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 638--643
+
+ []
+
+
+Overfull \hbox (16.66524pt too wide) in paragraph at lines 644--647
+[]\TU/ebgaramond(0)/m/n/10 Le repas est 󰐑󰐅ni et les assi-ettes sont dans 
+l’évier, on est en mode post-communnion,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 644--647
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 648--656
+
+ []
+
+[17
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 657--658
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 660--669
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 671--682
+
+ []
+
+[18]
+Underfull \hbox (badness 10000) in paragraph at lines 683--684
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 687--713
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 714--722
+
+ []
+
+[19]
+Underfull \hbox (badness 10000) in paragraph at lines 724--746
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 747--761
+
+ []
+
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 763--802
+
+ []
+
+[21]
+Underfull \hbox (badness 10000) in paragraph at lines 810--812
+
+ []
+
+[22]
+Underfull \hbox (badness 10000) in paragraph at lines 831--836
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 837--843
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 844--853
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 854--868
+
+ []
+
+[23
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 871--876
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 877--900
+
+ []
+
+[24
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 908--927
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 928--930
+
+ []
+
+[25
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 944--951
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 952--959
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 960--962
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 965--966
+
+ []
+
+[26
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 972--973
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 974--975
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 976--979
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 980--981
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 982--983
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 984--985
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 986--987
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 988--991
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 992--995
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 996--997
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 998--999
+
+ []
+
+[27
+
+]
+Overfull \hbox (3.79317pt too wide) in paragraph at lines 1004--1011
+\TU/ebgaramond(0)/m/n/10 Au début du print-emps, pen-dant que les échanges en
+-tre Cé-dric et Jolie restaient
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1004--1011
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1012--1017
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1019--1027
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1028--1033
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1034--1037
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1038--1045
+
+ []
+
+[28
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1046--1049
+
+ []
+
+[29]
+Underfull \hbox (badness 10000) in paragraph at lines 1069--1070
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1071--1080
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1081--1097
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1098--1104
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1105--1108
+
+ []
+
+[30
+
+] [31]
+Underfull \hbox (badness 10000) in paragraph at lines 1129--1140
+
+ []
+
+[32
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1141--1157
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1141--1157
+
+ []
+
+[33
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1160--1173
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1160--1173
+
+ []
+
+
+Overfull \hbox (2.03996pt too wide) in paragraph at lines 1174--1195
+\TU/ebgaramond(0)/m/n/10 on sait pu trop com-ment ou pourquoi 
+ []
+
+
+Overfull \hbox (4.94658pt too wide) in paragraph at lines 1174--1195
+\TU/ebgaramond(0)/m/n/10 -- tra-jec-toire, y s’ bal-lade dans des ré󰐒
+󰐖ec-
+ []
+
+
+Overfull \hbox (11.3066pt too wide) in paragraph at lines 1174--1195
+\TU/ebgaramond(0)/m/n/10 caliss, ça de-scend mais de temps en temps
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1174--1195
+
+ []
+
+[34
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1198--1217
+
+ []
+
+[35
+
+] [36
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1227--1234
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1235--1238
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1247--1259
+
+ []
+
+[37
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1270--1275
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1276--1282
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1304--1312
+
+ []
+
+[38] [39]
+Underfull \hbox (badness 10000) in paragraph at lines 1325--1331
+
+ []
+
+
+Overfull \hbox (3.71638pt too wide) in paragraph at lines 1332--1336
+[]\TU/ebgaramond(0)/m/n/10 Elle parle d’un ton très rapide, ses phrases 
+󰐑󰐅nis-sent en écho. Cé-dric, en peignoir
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1332--1336
+
+ []
+
+[40
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1354--1364
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1366--1379
+
+ []
+
+[41
+
+]
+Overfull \hbox (3.55432pt too wide) in paragraph at lines 1386--1391
+\TU/ebgaramond(0)/m/n/10 dernier reste anonyme pour Cé-dric. Elle répond, c
+’est une voix à ac-cent Africain
+ []
+
+[42
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1402--1410
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1411--1416
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1417--1422
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1423--1429
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1430--1433
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1434--1440
+
+ []
+
+[43
+
+] [44] Excluding 'comment' comment. [45
+
+] (./ambition.aux))
+
+Here is how much of LuaTeX's memory you used:
+ 12796 strings out of 494480
+ 125171,460012 words of node,token memory allocated
+ 503 words of node memory still in use:
+   3 hlist, 1 vlist, 1 rule, 4 glue, 6 attribute, 68 glue_spec, 6 attribute_list
+, 1 write nodes
+   avail lists: 1:1,2:146,3:152,4:18,5:161,6:3387,7:851,8:8,9:83,10:13,11:201
+ 16727 multiletter control sequences out of 65536+600000
+ 55 fonts using 12265807 bytes
+ 39i,8n,67p,817b,293s stack positions out of 5000i,500n,10000p,200000b,100000s
+</usr/share/fonts/opentype/ebgaramond/EBGaramond08-Italic.otf></usr/share/fonts/
+opentype/ebgaramond/EBGaramond12-Regular.otf></usr/share/fonts/opentype/ebgaramo
+nd/EBGaramond12-Italic.otf></usr/share/fonts/opentype/ebgaramond/EBGaramond08-Re
+gular.otf></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.p
+fb>
+Output written on ambition.pdf (45 pages, 131703 bytes).
+
+PDF statistics: 178 PDF objects out of 1000 (max. 8388607)
+ 116 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 131072)
+ 1 words of extra memory for PDF output out of 10000 (max. 100000000)
+

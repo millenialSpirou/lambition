@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1599078765 "ambition.tex" "ambition.pdf" "ambition" 1599078766
+["pdflatex"] 1599702945 "ambition.tex" "ambition.pdf" "ambition" 1599702947
   "/home/frederic/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/ebgaramond08-italic.luc" 1598465156 270376 b2fb20f1f797e0e69db980fe7aed7416 ""
   "/home/frederic/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/ebgaramond08-regular.luc" 1591233015 309590 103c67ab0d5870c1f15abb479b021e49 ""
   "/home/frederic/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/ebgaramond12-italic.luc" 1591233015 368705 e4dca855dc742e289e38215f4b899d7e ""
@@ -87,10 +87,10 @@
   "/usr/share/texlive/texmf-dist/tex/luatex/lualibs/lualibs-util-tab.lua" 1486339267 28471 cb1ae792cb08c524e4bc09b4f005f7f8 ""
   "/usr/share/texlive/texmf-dist/tex/luatex/lualibs/lualibs-util-tpl.lua" 1480098845 7100 ccfb5023bc761673396964848d85b5e2 ""
   "/usr/share/texlive/texmf-dist/tex/luatex/luaotfload/luaotfload-characters.lua" 1485820867 1548690 99578c3eff8b68cae3da45a4a7cbfcf2 ""
-  "/var/lib/texmf/web2c/luatex/lualatex.fmt" 1591226260 1349075 7b212a6ecfeda74c70782c126734b359 ""
-  "ambition.aux" 1599078766 1371 1436bf702c83925fbcd71b3eed9a9edc ""
-  "ambition.tex" 1599078763 79369 447e02b155b8c6f598627576ddfe191c ""
+  "/var/lib/texmf/web2c/luatex/lualatex.fmt" 1599528952 1349099 80c10d81a0350ce928b7ee08fd25ea1c ""
+  "ambition.aux" 1599702947 1445 c776af7ff0aa96b8e470c1558758e6a7 ""
+  "ambition.tex" 1599702927 81467 2f88f14c3539e04c61012edd0a5445f5 ""
   (generated)
   "ambition.aux"
-  "ambition.pdf"
   "ambition.log"
+  "ambition.pdf"

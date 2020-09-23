@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2020.9.7)  9 SEP 2020 21:55
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2020.9.7)  12 SEP 2020 16:00
  restricted system commands enabled.
  file:line:error style messages enabled.
 **ambition.tex
@@ -35,7 +35,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.068 seconds
+luaotfload | main : initialization completed in 0.063 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
@@ -1045,420 +1045,483 @@ Underfull \hbox (badness 10000) in paragraph at lines 708--709
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 712--738
+Underfull \hbox (badness 10000) in paragraph at lines 712--721
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 722--729
 
  []
 
 [19]
-Underfull \hbox (badness 10000) in paragraph at lines 739--747
+Overfull \hbox (0.5853pt too wide) in paragraph at lines 730--740
+[]\TU/ebgaramond(0)/m/n/10 An-ar-chiste depuis ses 16 ans, ayant lu d’abord l
+’in-tro-duc-tion de Daniel Guérin
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 730--740
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 749--758
+Underfull \hbox (badness 10000) in paragraph at lines 741--749
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 759--766
+Underfull \hbox (badness 10000) in paragraph at lines 751--760
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 761--768
 
  []
 
 [20]
-Underfull \hbox (badness 10000) in paragraph at lines 767--774
+Underfull \hbox (badness 10000) in paragraph at lines 769--776
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 775--789
+Underfull \hbox (badness 10000) in paragraph at lines 777--791
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 792--831
+Underfull \hbox (badness 10000) in paragraph at lines 794--833
 
  []
 
 [21]
-Underfull \hbox (badness 10000) in paragraph at lines 839--841
+Underfull \hbox (badness 10000) in paragraph at lines 841--843
 
  []
 
 [22]
-Underfull \hbox (badness 10000) in paragraph at lines 842--847
+Underfull \hbox (badness 10000) in paragraph at lines 844--849
 
  []
 
 [23]
-Underfull \hbox (badness 10000) in paragraph at lines 869--874
+./ambition.tex:862: Undefined control sequence.
+l.862 \texit
+          {on passe au passé}
+? 
+
+Underfull \hbox (badness 10000) in paragraph at lines 864--879
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 875--881
+Overfull \hbox (28.92998pt too wide) in paragraph at lines 884--885
+\TU/ebgaramond(0)/m/it/10 Duc-los et Véroche, deux ban-quiers su-isse ou Fran
+çais, dépen-dem-ment de labyrinthiques-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 884--885
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 882--891
+Underfull \hbox (badness 10000) in paragraph at lines 886--887
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 892--906
+Underfull \hbox (badness 10000) in paragraph at lines 888--889
 
  []
 
 [24
 
-
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 909--914
+Underfull \hbox (badness 10000) in paragraph at lines 904--909
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 915--938
+Underfull \hbox (badness 10000) in paragraph at lines 910--916
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 917--926
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 927--941
 
  []
 
 [25
 
-]
-Underfull \hbox (badness 10000) in paragraph at lines 946--965
+] [26]
+Underfull \hbox (badness 10000) in paragraph at lines 944--949
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 966--968
-
- []
-
-[26
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 982--989
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 990--997
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 998--1000
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1003--1004
+Underfull \hbox (badness 10000) in paragraph at lines 950--973
 
  []
 
 [27
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 1010--1011
+Underfull \hbox (badness 10000) in paragraph at lines 981--1000
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1012--1013
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1014--1017
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1018--1019
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1020--1021
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1022--1023
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1024--1025
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1026--1029
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1030--1033
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1034--1035
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1036--1037
+Underfull \hbox (badness 10000) in paragraph at lines 1001--1003
 
  []
 
 [28
 
 ]
-Overfull \hbox (3.79317pt too wide) in paragraph at lines 1042--1049
-\TU/ebgaramond(0)/m/n/10 Au début du print-emps, pen-dant que les échanges en
--tre Cé-dric et Jolie restaient
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1042--1049
+Underfull \hbox (badness 10000) in paragraph at lines 1020--1021
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1050--1055
+Underfull \hbox (badness 10000) in paragraph at lines 1022--1027
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1057--1065
+Underfull \hbox (badness 10000) in paragraph at lines 1028--1043
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1066--1071
+Underfull \hbox (badness 10000) in paragraph at lines 1044--1051
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1072--1075
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1076--1083
+Underfull \hbox (badness 10000) in paragraph at lines 1052--1058
 
  []
 
 [29
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 1084--1087
+Underfull \hbox (badness 10000) in paragraph at lines 1059--1067
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1068--1075
 
  []
 
 [30]
-Underfull \hbox (badness 10000) in paragraph at lines 1107--1108
+Underfull \hbox (badness 10000) in paragraph at lines 1084--1085
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1109--1118
+Underfull \hbox (badness 10000) in paragraph at lines 1086--1087
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1119--1135
+Underfull \hbox (badness 10000) in paragraph at lines 1088--1091
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1136--1142
+Underfull \hbox (badness 10000) in paragraph at lines 1092--1093
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1143--1146
+Underfull \hbox (badness 10000) in paragraph at lines 1094--1095
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1096--1097
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1098--1099
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1100--1103
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1104--1107
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1108--1109
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1110--1111
 
  []
 
 [31
 
-] [32]
-Underfull \hbox (badness 10000) in paragraph at lines 1167--1178
+]
+Overfull \hbox (3.79317pt too wide) in paragraph at lines 1116--1123
+\TU/ebgaramond(0)/m/n/10 Au début du print-emps, pen-dant que les échanges en
+-tre Cé-dric et Jolie restaient
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1116--1123
 
  []
 
-[33
+
+Underfull \hbox (badness 10000) in paragraph at lines 1124--1129
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1131--1139
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1140--1145
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1146--1149
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1150--1157
+
+ []
+
+[32
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 1179--1195
+Underfull \hbox (badness 10000) in paragraph at lines 1158--1161
+
+ []
+
+[33]
+Underfull \hbox (badness 10000) in paragraph at lines 1181--1182
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1179--1195
+Underfull \hbox (badness 10000) in paragraph at lines 1183--1192
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1193--1209
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1210--1216
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1217--1220
 
  []
 
 [34
 
-]
-Underfull \hbox (badness 10000) in paragraph at lines 1198--1211
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1198--1211
-
- []
-
-
-Overfull \hbox (2.03996pt too wide) in paragraph at lines 1212--1233
-\TU/ebgaramond(0)/m/n/10 on sait pu trop com-ment ou pourquoi 
- []
-
-
-Overfull \hbox (4.94658pt too wide) in paragraph at lines 1212--1233
-\TU/ebgaramond(0)/m/n/10 -- tra-jec-toire, y s’ bal-lade dans des ré󰐒
-󰐖ec-
- []
-
-
-Overfull \hbox (11.3066pt too wide) in paragraph at lines 1212--1233
-\TU/ebgaramond(0)/m/n/10 caliss, ça de-scend mais de temps en temps
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1212--1233
-
- []
-
-[35
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 1236--1255
+] [35]
+Underfull \hbox (badness 10000) in paragraph at lines 1241--1252
 
  []
 
 [36
 
-] [37
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1253--1269
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1253--1269
+
+ []
+
+[37
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 1265--1272
+Underfull \hbox (badness 10000) in paragraph at lines 1272--1285
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1273--1276
+Underfull \hbox (badness 10000) in paragraph at lines 1272--1285
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1285--1297
+Overfull \hbox (2.03996pt too wide) in paragraph at lines 1286--1307
+\TU/ebgaramond(0)/m/n/10 on sait pu trop com-ment ou pourquoi 
+ []
+
+
+Overfull \hbox (4.94658pt too wide) in paragraph at lines 1286--1307
+\TU/ebgaramond(0)/m/n/10 -- tra-jec-toire, y s’ bal-lade dans des ré󰐒
+󰐖ec-
+ []
+
+
+Overfull \hbox (11.3066pt too wide) in paragraph at lines 1286--1307
+\TU/ebgaramond(0)/m/n/10 caliss, ça de-scend mais de temps en temps
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1286--1307
 
  []
 
 [38
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 1308--1313
+Underfull \hbox (badness 10000) in paragraph at lines 1310--1329
+
+ []
+
+[39
+
+] [40
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1339--1346
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1314--1320
+Underfull \hbox (badness 10000) in paragraph at lines 1347--1350
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1342--1350
-
- []
-
-[39] [40]
-Underfull \hbox (badness 10000) in paragraph at lines 1363--1369
-
- []
-
-
-Overfull \hbox (3.71638pt too wide) in paragraph at lines 1370--1374
-[]\TU/ebgaramond(0)/m/n/10 Elle parle d’un ton très rapide, ses phrases 
-󰐑󰐅nis-sent en écho. Cé-dric, en peignoir
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1370--1374
+Underfull \hbox (badness 10000) in paragraph at lines 1359--1371
 
  []
 
 [41
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 1392--1402
+Underfull \hbox (badness 10000) in paragraph at lines 1382--1387
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1404--1417
-
- []
-
-[42
-
-]
-Overfull \hbox (3.55432pt too wide) in paragraph at lines 1424--1429
-\TU/ebgaramond(0)/m/n/10 dernier reste anonyme pour Cé-dric. Elle répond, c
-’est une voix à ac-cent Africain
- []
-
-[43
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 1440--1448
+Underfull \hbox (badness 10000) in paragraph at lines 1388--1394
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1449--1454
+Underfull \hbox (badness 10000) in paragraph at lines 1416--1424
+
+ []
+
+[42] [43]
+Underfull \hbox (badness 10000) in paragraph at lines 1437--1443
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1455--1460
-
+Overfull \hbox (3.71638pt too wide) in paragraph at lines 1444--1448
+[]\TU/ebgaramond(0)/m/n/10 Elle parle d’un ton très rapide, ses phrases 
+󰐑󰐅nis-sent en écho. Cé-dric, en peignoir
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1461--1467
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1468--1471
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1472--1478
+Underfull \hbox (badness 10000) in paragraph at lines 1444--1448
 
  []
 
 [44
 
-] [45] Excluding 'comment' comment. [46
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1466--1476
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1478--1491
+
+ []
+
+[45
+
+]
+Overfull \hbox (3.55432pt too wide) in paragraph at lines 1498--1503
+\TU/ebgaramond(0)/m/n/10 dernier reste anonyme pour Cé-dric. Elle répond, c
+’est une voix à ac-cent Africain
+ []
+
+[46
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1514--1522
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1523--1528
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1529--1534
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1535--1541
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1542--1545
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1546--1552
+
+ []
+
+[47
+
+] [48] Excluding 'comment' comment. [49
 
 ] (./ambition.aux))
 
 Here is how much of LuaTeX's memory you used:
  12796 strings out of 494480
  125171,460012 words of node,token memory allocated
- 503 words of node memory still in use:
-   3 hlist, 1 vlist, 1 rule, 4 glue, 6 attribute, 68 glue_spec, 6 attribute_list
+ 508 words of node memory still in use:
+   3 hlist, 1 vlist, 1 rule, 4 glue, 6 attribute, 69 glue_spec, 6 attribute_list
 , 1 write nodes
-   avail lists: 1:1,2:146,3:152,4:18,5:210,6:3992,7:1051,8:8,9:83,10:12,11:255
+   avail lists: 1:1,2:146,3:152,4:18,5:210,6:4169,7:1086,8:8,9:83,10:12,11:267
  16727 multiletter control sequences out of 65536+600000
  55 fonts using 12265807 bytes
  39i,8n,67p,817b,293s stack positions out of 5000i,500n,10000p,200000b,100000s
@@ -1467,10 +1530,10 @@ opentype/ebgaramond/EBGaramond12-Regular.otf></usr/share/fonts/opentype/ebgaramo
 nd/EBGaramond12-Italic.otf></usr/share/fonts/opentype/ebgaramond/EBGaramond08-Re
 gular.otf></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.p
 fb>
-Output written on ambition.pdf (46 pages, 134408 bytes).
+Output written on ambition.pdf (49 pages, 140069 bytes).
 
-PDF statistics: 181 PDF objects out of 1000 (max. 8388607)
- 118 compressed objects within 2 object streams
+PDF statistics: 190 PDF objects out of 1000 (max. 8388607)
+ 124 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
